@@ -48,7 +48,13 @@ aqi_health_project/
 │── outputs/
 │   ├── dashboard.png
 │   ├── aqi_trend.png
-│   ├── heatmap.png
+│   ├── correlation_heatmap.png
+│   ├── aqi_vs_health_impact.png
+│   ├── distribution_plot.png
+│   ├── monthly_heatmap.png
+│   ├── seasonal_aqi_analysis.png
+│   ├── top_polluted_cities.png
+│   ├── pairplot.png
 │
 │── dashboard/
 │   └── Urban_Air_Quality_Health_Risk_Analyzer.pbix
